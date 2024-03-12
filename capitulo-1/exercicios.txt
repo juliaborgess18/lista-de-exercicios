@@ -1,0 +1,40 @@
+Exercício 1.1 Quais são os 3 tipos de códigos básicos de uma página de hipertexto? Explique para que serve cada um dos tipos.
+R.: HTML, CSS e JavaScript. O HTML define a estrutura e o conteúdo da página web; o CSS controla a aparência visual dos elementos HTML; o JavaScript adiciona interatividade e funcionalidades dinâmicas à página.
+
+Exercício 1.2 Quantos arquivos CSS e Javascript podem estar vinculados a uma mesma página de hipertexto? Justifique sua resposta.
+R.: Não há limitação quanto à esse aspecto, tendo em vista que através do conceito de modularização é possível criar arquivos específicos para estilização e interatividade de determinadas classes de componentes da página. 
+
+Exercício 1.3 É possível diferentes páginas de hipertexto terem vínculo com os mesmos arquivos Javascript e CSS? Justifique sua resposta.
+R.: Sim, é possível. O aproveitamento de arquivos Javascript e CSS em múltiplas páginas HTML é possível e recomendado, devido aos benefícios de padronização de visual e funcionalidades, fácil manutenção e otimização do carregamento da página no navegador, tendo em vista que os navegadores podem armazenar em cache os arquivos de Javascript e CSS.
+
+Exercício 1.4 Descreva a diferença entre uma página de hipertexto estática e uma dinâmica, pontuando as vantagens e desvantagens de cada um dos dois tipos. 
+R.: Páginas estáticas são páginas na qual o conteúdo não se altera após serem carregadas no navegador, enquanto páginas dinâmicas são páginas que podem sofrer alterações de estado dependendo dos inputs que o usuário pode fornecer.
+Vantagens das páginas estáticas:
+    Simplicidade: Fáceis de criar e hospedar.
+    Velocidade de Carregamento: Rápidas, pois não dependem de processamento no servidor.
+    Segurança: Menos vulneráveis a ataques.
+Desvantagens das páginas estáticas:
+    Conteúdo Estático: Não se adapta às necessidades individuais dos usuários.
+    Atualizações Manuais: Qualquer mudança requer edição manual do código.
+    Interação Limitada: Pouca ou nenhuma interatividade.
+Vantagens das páginas dinâmicas:
+    Personalização: Adaptam-se às preferências do usuário.
+    Interação Avançada: Suportam formulários, animações e atualizações em tempo real.
+    Conteúdo Dinâmico: Pode exibir informações atualizadas automaticamente.
+Desvantagens das páginas dinâmicas:
+    Complexidade: Requerem processamento no servidor (geralmente com linguagens como PHP, Python ou Node.js).
+    Segurança: Mais suscetíveis a vulnerabilidades (como injeção de SQL).
+    Tempo de Carregamento: Dependem da velocidade do servidor e da conexão do usuário.
+
+Exercício 1.5 Qual é o caminho percorrido por uma requisição HTTP a uma página de hipertexto estática?
+R.: 
+1) O usuário digita o endereço da página (URL) no navegador.
+2) O navegador cria uma requisição HTTP para o servidor.
+3) O servidor recebe a requisição.
+4) Identifica que se trata de uma página estática.
+5) Localiza o arquivo HTML correspondente.
+6) O servidor envia o arquivo HTML de volta ao navegador.
+7) A resposta inclui o código HTML, CSS, JavaScript e outros. 
+8) O navegador interpreta o código HTML.
+9) Exibe o conteúdo da página, aplicando estilos do CSS.
+10) A página estática é exibida para o usuário.

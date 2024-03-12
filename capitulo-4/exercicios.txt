@@ -1,0 +1,14 @@
+Exercício 4.1 Crie uma lista de compras de supermercado com pelo menos 5 itens. 
+R.:
+
+Exercício 4.2 Crie uma lista de características de um produto ou serviço oferecido por uma loja virtual qualquer. 
+R.:
+
+Exercício 4.3 Crie uma lista com ao menos 5 redes sociais em que uma pessoa ou empresa possa estar presente. 
+R.:
+
+Exercício 4.4 Crie uma lista numerada de passos para realizar uma receita de bolo de chocolate. 
+R.:
+
+Exercício 4.5 Crie uma lista de rankings ou classificações como os melhores filmes que você já assistiu. 
+R.:

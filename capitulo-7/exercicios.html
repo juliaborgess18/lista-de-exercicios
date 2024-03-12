@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="processar.php" method="post">
+        <label for="nome">Nome:</label><br>
+        <input type="text" id="nome" name="nome"><br>
+        <input type="submit" value="Enviar">
+    </form>
+    <hr>
+    <form action="processa.php" method="post">
+        <label for="email">E-mail:</label><br>
+        <input type="email" id="email" name="email"><br>
+        <label for="senha">Senha:</label><br>
+        <input type="password" id="senha" name="senha"><br>
+        <input type="submit" value="Enviar">
+    </form>
+    <hr>
+    <form action="processa.php" method="post">
+        <label for="cor">Escolha uma cor:</label><br>
+        <input type="checkbox" id="vermelho" name="cor" value="Vermelho">
+        <label for="vermelho">Vermelho</label><br>
+        <input type="checkbox" id="verde" name="cor" value="Verde">
+        <label for="verde">Verde</label><br>
+        <input type="checkbox" id="azul" name="cor" value="Azul">
+        <label for="azul">Azul</label><br>
+        <input type="submit" value="Enviar">
+    </form>
+    <hr>
+    <form action="processa.php" method="post">
+        <label for="idade">Idade:</label><br>
+        <input type="number" id="idade" name="idade" required><br>
+        <label for="genero">Gênero:</label><br>
+        <select id="genero" name="genero" required>
+            <option value="">Selecione...</option>
+            <option value="masculino">Masculino</option>
+            <option value="feminino">Feminino</option>
+            <option value="outro">Outro</option>
+        </select><br>
+        <input type="submit" value="Enviar">
+    </form>
+    <hr>
+    <form action="mailto:exemplo@email.com" method="post">
+        <label for="email">Endereço de e-mail:</label><br>
+        <input type="email" id="email" name="email" required><br>
+        <label for="assunto">Assunto:</label><br>
+        <select id="assunto" name="assunto" required>
+            <option value="">Selecione...</option>
+            <option value="duvida">Dúvida</option>
+            <option value="sugestao">Sugestão</option>
+            <option value="reclamacao">Reclamação</option>
+        </select><br>
+        <label for="mensagem">Mensagem:</label><br>
+        <textarea id="mensagem" name="mensagem" rows="4" cols="50" required></textarea><br>
+        <input type="submit" value="Enviar">
+    </form>
+
+
+
+
+</body>
+
+</html>

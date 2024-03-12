@@ -1,0 +1,9 @@
+Exercício 6.1 Crie um elemento de áudio com o atributo controls e adicione dois elementos <source> com diferentes formatos de áudio para que o navegador possa escolher qual usar com base na compatibilidade. 
+
+Exercício 6.2 Adicione um elemento de áudio com uma música embutida, dois elementos <source> com diferentes formatos de áudio e um elemento <track> com a letra da música. 
+
+Exercício 6.3 Crie um elemento de áudio que comece a tocar automaticamente quando a página é carregada e que tenha controles visíveis. Adicione dois elementos <source> com diferentes formatos de áudio. 
+
+Exercício 6.4 Adicione um elemento de áudio com um atributo loop para que o áudio seja reproduzido continuamente. Adicione 3 elementos <source> com formatos distintos, tornando o MP3 como padrão. 
+
+Exercício 6.5 Crie um elemento de áudio com um atributo preload definido como “none” e adicione dois elementos <source> com diferentes formatos de áudio para que o navegador não carregue o áudio previamente.
