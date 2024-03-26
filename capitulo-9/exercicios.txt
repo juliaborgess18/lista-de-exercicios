@@ -1,0 +1,14 @@
+Exercício 9.1:
+Crie uma classe CSS que defina a cor vermelha (red) para o fundo de um elemento usando a propriedade background-color.
+
+Exercício 9.2:
+Crie um seletor CSS que defina nominalmente a cor azul para o texto de todos os elementos 'a' que estejam dentro de um parágrafo.
+
+Exercício 9.3:
+Crie uma classe CSS que defina uma cor RGB para o fundo de um elemento. A cor deve ser um tom de verde com os valores RGB de 50, 205 e 50.
+
+Exercício 9.4:
+Crie um seletor CSS que defina uma cor RGBA para o texto de um elemento ul. A cor deve ser um tom de cinza com os valores RGB de 128, 128, 128 e uma transparência de 50%.
+
+Exercício 9.5:
+Crie uma classe CSS que defina uma cor HSL para o fundo de um elemento, sendo que a cor deve ser um tom de rosa com uma matiz HSL de 330 graus, uma saturação de 75% e uma luminosidade de 70%.

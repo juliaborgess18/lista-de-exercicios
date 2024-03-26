@@ -1,0 +1,14 @@
+Exercício 11.1:
+Utilize o pseudoseletor ::before para adicionar um asterisco (*) antes dos títulos de nível 1.
+
+Exercício 11.2:
+Aplique o pseudoseletor ::after para adicionar uma linha horizontal após todos os parágrafos.
+
+Exercício 11.3:
+Utilize o pseudoseletor ::firts-letter para aumentar a fonte da primeira letra dos parágrafos.
+
+Exercício 11.4:
+Aplique o pseudoseletor ::first-line para alterar a cor da primeira linha de todos os parágrafos.
+
+Exercício 11.5:
+Use o pseudoseletor ::marker para alterar a cor dos marcadores dos itens de lista para verde.

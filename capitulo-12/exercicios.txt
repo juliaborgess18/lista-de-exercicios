@@ -1,0 +1,35 @@
+12.1
+Crie um seletor CSS que aplique a propriedade Display com valor Inline nos elementos h1 para exibi-los na mesma linha.
+
+12.2 
+Crie um seletor CSS que utilize a propriedade Display com valor Block nos elementos Span para exibi-los como blocos independentes.
+
+12.3 
+Crie um seletor CSS que aplique a propriedade Display com valor inline-block nos elementos img para permitir ajustes de margem e preenchimento.
+
+12.4
+Crie um seletor CSS que utilize a propriedade Display com valor none nos elementos com a classe "ocultar"para remover div da exibição.
+
+12.5
+Crie um seletor CSS que aplique a propriedade visibility com valor hidden nos elementos com a classe "invisível"para esconder p.
+
+12.6
+Crie um seletor CSS que utilize a propriedadevisibility com valor visible nos elementos com a classe "visível"para garantir a exibição de p.
+
+12.7 
+Crie um seletor CSS que aplique a propriedade opacity com valor 0.5 nos elementos img para deixá-los semitransparentes.
+
+12.8 
+Crie um seletor CSS que utilize a propriedade opacity com valor 1 nos elementos img ao passar o mouse sobre eles para torná-los totalmente opacos.
+
+12.9 
+Crie um seletor CSS que aplique a propriedade display com valor none nos elementos h2 com atributo data-hide="true".
+
+12.10 
+Crie um seletor CSS que aplique a propriedade visibility com valor hidden nos elementos com atributo data-visibility="false".
+
+12.11 
+Crie um seletor CSS que aplique a propriedade position com valor static no elemento div para posicioná-lo na ordem normal do fluxo.
+
+12.12 
+Crie um seletor CSS que utilize a propriedade position com valor relative no elemento img para movê-lo em relação à sua posição original.

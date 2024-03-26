@@ -1,0 +1,14 @@
+Exercício 10.1:
+Crie um seletor CSS para modificar a cor do texto de todos os parágrafos de uma página HTML. Escolha a cor desejada em formato hexadecimal.
+
+Exercício 10.2:
+Considere um texto de um site que utiliza a fonte “Arial”, mas você deseja aplicar a fonte “Roboto” como uma alternativa. Crie um seletor CSS que defina “Roboto” como a fonte principal e “Arial” como a segunda opção caso “Roboto” não esteja disponível.
+
+Exercício 10.3:
+Imagine que você queira alterar o tamanho da fonte de todos os títulos de nível 3 de uma página HTML para 2rem. Escreva um seletor CSS para realizar essa tarefa.
+
+Exercício 10.4:
+Suponha que em um site você queira enfatizar determinadas palavras ou frases aplicando um estilo de fonte em negrito. Crie um seletor CSS que aplique o estilo desejado a um elemento span da classe destaque.
+
+Exercício 10.5:
+Em um site, você deseja aplicar um estilo de fonte em itálico para citações textuais contidas em elementos blockquote. Crie um seletor CSS que atinja esse objetivo.
