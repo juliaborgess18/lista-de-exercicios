@@ -1,0 +1,9 @@
+Exercício 13.1 Crie um contêiner flexbox simples usando a propriedade display. 
+
+Exercício 13.2 Adicione três itens flexbox dentro de um contêiner flexbox e defina a propriedade flex-grow para 1 em cada item, garantindo que todos os itens ocupem igualmente o espaço disponível. 
+
+Exercício 13.3 Dentro de um contêiner flexbox, coloque cinco itens flexbox. Faça com que o terceiro item cresça duas vezes mais que os outros itens, usando a propriedade flex-grow. 
+
+Exercício 13.4 Utilize a propriedade justify-content em um contêiner flexbox para alinhar seus itens flexbox à direita. 
+
+Exercício 13.5 Alinhe verticalmente os itens de um contêiner flexbox no centro, usando a propriedades align-items
